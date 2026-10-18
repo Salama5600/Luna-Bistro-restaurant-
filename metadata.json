@@ -1,0 +1,6 @@
+{
+  "name": "Luna Bistro",
+  "description": "Modern Mediterranean cuisine, seasonal ingredients and warm hospitality. Explore Luna Bistro, a fictional restaurant website concept.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
